@@ -1,0 +1,9 @@
+{
+  "name": "tarot-agent-office",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": { "start": "node --env-file=.env server.js" },
+  "engines": { "node": ">=20.6" },
+  "dependencies": { "express": "^4.21.0" }
+}
